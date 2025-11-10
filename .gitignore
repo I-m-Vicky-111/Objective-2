@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+*.sqlite
+*.zip
+data/
+data/*
+logs/
+*.log
+*.env
+config/config.yaml
+config/model_config.yaml
+src/**/__pycache__/
+*.pyc
+*.egg-info/
+dist/
+.DS_Store
+
+# Keep sample config but ignore real configs and secrets
+!config/sample_config.yaml

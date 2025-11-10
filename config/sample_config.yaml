@@ -1,0 +1,5 @@
+# Backup copy of sample_config.yaml (outside repo tree root) to preserve content across git reset
+# This file is intentionally placed outside the repository working tree to avoid being part of commits.
+
+# sample_config backup (same as config/sample_config.yaml)
+apify_key: "Your api key"
